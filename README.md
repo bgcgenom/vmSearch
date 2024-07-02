@@ -1,6 +1,6 @@
 <H1>vmSearch</H1>
 
-<H2><U>Requirements</U>U</H2>
+<H2><U>Requirements</U></H2>
 <H3>Requres PowerShell and PowerCLI.</H3>
 
 Use whatever version that is compatible with your hosts.
